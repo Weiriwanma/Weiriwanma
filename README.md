@@ -22,17 +22,6 @@
 ![Role](https://img.shields.io/badge/Role-AI%20Engineer-green?style=for-the-badge&logo=robot)
 ![Location](https://img.shields.io/badge/Location-🌍%20Digital%20World-orange?style=for-the-badge)
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Proficient-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Proficient-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-### 🧠 AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-❤️-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-🔥-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-⚡-1769AA?style=flat-square)
-![MXNet](https://img.shields.io/badge/MXNet-🚀-FF6600?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-💫-D00000?style=flat-square&logo=keras&logoColor=white)
 
 ### 🎯 Focus Areas
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-🧠-purple?style=flat-square)
@@ -41,13 +30,12 @@
 ![MLOps](https://img.shields.io/badge/MLOps-⚙️-red?style=flat-square)
 
 ---
-*"Thanks for dropping by! Let's build something amazing together! 🚀"*
+
 
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/💭-Thanks%20for%20dropping%20by!%20Let's%20build%20something%20amazing%20together!-ff69b4?style=for-the-badge" />
 
 </div>
 
