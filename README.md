@@ -16,42 +16,34 @@
 
 <div align="center">
 
-## 🎯 Meet WeiRiWanMa
+## 🏷️ About WeiRiWanMa
 
-<table border="0">
-<tr>
-<td align="center">
+![Name](https://img.shields.io/badge/Name-WeiRiWanMa-blue?style=for-the-badge&logo=github)
+![Role](https://img.shields.io/badge/Role-AI%20Engineer-green?style=for-the-badge&logo=robot)
+![Location](https://img.shields.io/badge/Location-🌍%20Digital%20World-orange?style=for-the-badge)
 
-### 🎭 Identity
-**WeiRiWanMa**  
-*AI Engineer & Deep Learning Researcher*  
-🌍 *Digital World Explorer*
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Proficient-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Proficient-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-</td>
-<td align="center">
+### 🧠 AI Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-❤️-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-🔥-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-⚡-1769AA?style=flat-square)
+![MXNet](https://img.shields.io/badge/MXNet-🚀-FF6600?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-💫-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### 💻 Code Arsenal
-🐍 **Python** | ⚡ **C** | 🔷 **C#**
+### 🎯 Focus Areas
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-🧠-purple?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-👁️-blue?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-💬-green?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-⚙️-red?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td align="center">
+---
+*"Thanks for dropping by! Let's build something amazing together! 🚀"*
 
-### 🧠 AI Toolbox
-🔥 **PyTorch** • 🌊 **TensorFlow**  
-🏮 **PaddlePaddle** • ⚡ **MXNet** • 🎯 **Keras**
-
-</td>
-<td align="center">
-
-### 🎯 Passion Areas
-🧠 Deep Learning • 👁️ Computer Vision  
-💬 NLP • ⚙️ MLOps
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
