@@ -13,25 +13,49 @@
 
 ---
 
-## 🎯 About Me
 
 <div align="center">
 
-## 🎯 About WeiRiWanMa
+## 🎯 Meet WeiRiWanMa
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=WeiRiWanMa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=WeiRiWanMa's%20Profile" />
+<table border="0">
+<tr>
+<td align="center">
 
-### 🚀 Quick Facts
+### 🎭 Identity
+**WeiRiWanMa**  
+*AI Engineer & Deep Learning Researcher*  
+🌍 *Digital World Explorer*
 
-| 🎭 **Identity** | 💻 **Tech Stack** | 🎯 **Interests** |
-|:---:|:---:|:---:|
-| WeiRiWanMa | Python・C・C# | Deep Learning |
-| AI Engineer | PyTorch・TensorFlow | Computer Vision |
-| Researcher | PaddlePaddle・MXNet・Keras | NLP・MLOps |
+</td>
+<td align="center">
 
-<br>
+### 💻 Code Arsenal
+🐍 **Python** | ⚡ **C** | 🔷 **C#**
 
-🌟 ***"Thanks for dropping by! Let's build something amazing together!"*** 🚀
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🧠 AI Toolbox
+🔥 **PyTorch** • 🌊 **TensorFlow**  
+🏮 **PaddlePaddle** • ⚡ **MXNet** • 🎯 **Keras**
+
+</td>
+<td align="center">
+
+### 🎯 Passion Areas
+🧠 Deep Learning • 👁️ Computer Vision  
+💬 NLP • ⚙️ MLOps
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://img.shields.io/badge/💭-Thanks%20for%20dropping%20by!%20Let's%20build%20something%20amazing%20together!-ff69b4?style=for-the-badge" />
 
 </div>
 
