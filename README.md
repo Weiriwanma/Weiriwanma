@@ -30,7 +30,7 @@ class WeiRiWanMa:
 
 me = WeiRiWanMa()
 me.say_hi()
-
+```
 
 ---
 
