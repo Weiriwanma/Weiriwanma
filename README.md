@@ -28,21 +28,8 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-👁️-blue?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-💬-green?style=flat-square)
 ![MLOps](https://img.shields.io/badge/MLOps-⚙️-red?style=flat-square)
-
-
-
-
 </div>
-
-
-
 </div>
-
-
-
-
-
-
 <div align="center">
 
 ### 💻 Programming Languages
