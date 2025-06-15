@@ -15,22 +15,26 @@
 
 ## 🎯 About Me
 
-```python
-class WeiRiWanMa:
-    def __init__(self):
-        self.name = "WeiRiWanMa"
-        self.role = "AI Engineer & Deep Learning Researcher"
-        self.location = "🌍 Somewhere in the Digital World"
-        self.languages = ["Python", "C", "C#"]
-        self.frameworks = ["PyTorch", "TensorFlow", "PaddlePaddle", "MXNet", "Keras"]
-        self.interests = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+<div align="center">
 
-me = WeiRiWanMa()
-me.say_hi()
-```
+## 🎯 About WeiRiWanMa
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=WeiRiWanMa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=WeiRiWanMa's%20Profile" />
+
+### 🚀 Quick Facts
+
+| 🎭 **Identity** | 💻 **Tech Stack** | 🎯 **Interests** |
+|:---:|:---:|:---:|
+| WeiRiWanMa | Python・C・C# | Deep Learning |
+| AI Engineer | PyTorch・TensorFlow | Computer Vision |
+| Researcher | PaddlePaddle・MXNet・Keras | NLP・MLOps |
+
+<br>
+
+🌟 ***"Thanks for dropping by! Let's build something amazing together!"*** 🚀
+
+</div>
+
 
 ---
 
