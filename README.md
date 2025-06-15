@@ -34,15 +34,14 @@
 
 </div>
 
----
 
 
 </div>
 
 
----
 
-## 🛠️ Tech Arsenal
+
+
 
 <div align="center">
 
