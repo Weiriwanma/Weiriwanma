@@ -29,7 +29,7 @@
 ![NLP](https://img.shields.io/badge/NLP-💬-green?style=flat-square)
 ![MLOps](https://img.shields.io/badge/MLOps-⚙️-red?style=flat-square)
 
----
+
 
 
 </div>
