@@ -178,15 +178,6 @@ mindmap
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WeiRiWanMa&theme=tokyonight&layout=compact" alt="Wakatime Stats"/>
-
-</div>
-
----
 
 <div align="center">
 
