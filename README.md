@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   
 # 🚀 Welcome to WeiRiWanMa's Digital Universe! 🌟
@@ -31,7 +30,7 @@ class WeiRiWanMa:
 
 me = WeiRiWanMa()
 me.say_hi()
-```
+
 
 ---
 
